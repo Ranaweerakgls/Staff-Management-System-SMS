@@ -9,7 +9,8 @@
   🔑 Key Features
   
   -  Feature	Description	Key Files
-       📅 Appointment Management	Schedule and manage staff appointments with forms and forums.	appform.php, cappform.php
+    
+       -📅 Appointment Management	Schedule and manage staff appointments with forms and forums.	appform.php, cappform.php
        🎫 Ticket System	Track and resolve support requests via an organized inbox.	ticket inbox, support.php
        💻 IT Support	Dedicated portal for IT-related queries and issue resolution.	IT contact, IT.js
        🔐 User Authentication	Secure login/logout functionality for staff access control.	loginpage.php, logout.php, process_log.php
