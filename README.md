@@ -11,8 +11,8 @@
   -  Feature	Description	Key Files
     
        - 📅 Appointment Management
-            Schedule and manage staff appointments with forms and forums.
-            (appform.php, cappform.php)
+            - Schedule and manage staff appointments with forms and forums.
+            - (appform.php, cappform.php)
        - 🎫 Ticket System
             Track and resolve support requests via an organized inbox.
             (ticket inbox, support.php)
