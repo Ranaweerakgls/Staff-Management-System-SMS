@@ -1,0 +1,38 @@
+body{
+    background: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(images/new.jpg) no-repeat;
+}
+.main h1{
+    font-size: 36px;
+    color: #fff;
+    text-align: center;
+    font-weight: 600;
+}
+.main p{
+    color: #fff;
+    text-align: center;
+}
+.log-box{
+    background: #ffffffa8;
+    margin: 20px 300px;
+    align-items: center;
+    border-radius: 10px;
+    padding: 10px;
+}
+.log-box h3{
+    font-size: 20px;
+}
+.log-box a{
+    font-size: 18px;
+}
+.log{
+    display: inline-block;
+    background: #292ba0;
+    color: #fff;
+    padding: 10px 10px;
+    margin-top: 20px; 
+    text-decoration: none;
+    border-radius: 6px;
+}
+.log:hover{
+    background:#292ba0b2;
+}

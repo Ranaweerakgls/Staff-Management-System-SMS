@@ -1,0 +1,133 @@
+body{
+    background:rgba(119, 119, 236, 0.329);
+}
+.home{
+    margin-top: 20px;
+    min-height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    background: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(images/new.jpg) no-repeat;
+    text-align: center;
+}
+.home .contend h3{
+    font-size: 47px;
+    color: rgb(245, 243, 241);
+    padding-top: 150px;
+    text-align: center;
+    align-items: center;
+    
+}
+.home h3::after{
+    content: '';
+    position: relative;
+    height:4px;
+    width:85%;
+    left:100px;
+    background:#b82727;
+    display: block;
+}
+.home .contend p{
+    color: rgb(245, 244, 243);
+    text-align: center;
+    padding: 5px;
+
+}
+.home a{
+    text-decoration: none;
+}
+.btni{
+
+    display: inline-block;
+    margin-top: 100px;
+    border:1px solid#fff;
+    background:transparent;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 18px;
+}
+.btni:hover{
+    background: #bb3b1b;
+}
+
+/*service contend*/
+.service{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+.service{
+    background: url(images/logo.png)no-repeat;
+    background-position: center;
+    
+
+}
+.service h1{
+    font-size: 34px;
+    font-weight: 600;
+}
+.line::after{
+    content: '';
+    position: relative;
+    height:4px;
+    width:200px;
+    left:300px;
+    background:rgb(231, 70, 70);
+    display: block;
+}
+.row{
+    margin: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.row1{
+    margin: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+.row2{
+    margin: 10%;
+}
+.row-content{
+    flex-basis: 31%;
+    background:rgb(143, 128, 228);
+    border-radius: 5px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition:0.5s;
+}
+.row-content:hover{
+    box-shadow: 0 0 80px 0px rgba(27, 18, 18, 0.2);
+}
+.row-content{
+    font-size: 20px;
+}
+.row-content a{
+
+    display: inline-block;
+    margin-top: 100px;
+    border-radius: 10px;
+    background:#bb3b1b;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 18px;
+    text-decoration: none;
+}
+.btn:hover{
+    color: rgb(10, 10, 10);
+    background: #d8d8d8;
+}
+
+.row-content i{
+    font-size: 50px;
+    color: rgb(10, 17, 78);
+    align-items: center;
+  
+}

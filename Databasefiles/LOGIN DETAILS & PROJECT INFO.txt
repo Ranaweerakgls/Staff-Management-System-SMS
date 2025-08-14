@@ -1,0 +1,31 @@
+**Database Name: StudentHelpDesk**
+ 
+**Admin Login Details**
+
+Username:AD14757895@enigma.com 
+Password:password
+
+**Counselor Login Details**
+
+Username:CO12345678@enigma.com
+Password:pword
+
+**Education Department Login Details**
+
+Username:ED24578924@enigma.com
+Password:maru
+
+**IT Department Login Details**
+
+Username:ID24579852@enigma.com
+Password:password
+
+**Student Login Details**
+
+Username:IT23191310@enigma.com
+Password:abcd
+
+**Lecturer Login Details**
+
+Username:LE12345678@enigma.com
+Password:abcid
