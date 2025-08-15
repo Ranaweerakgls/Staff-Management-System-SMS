@@ -17,17 +17,17 @@
             - Track and resolve support requests via an organized inbox.
             - (ticket inbox, support.php)
        - 💻 IT Support
-            Dedicated portal for IT-related queries and issue resolution.
-         	(IT contact, IT.js)
+            - Dedicated portal for IT-related queries and issue resolution.
+         	- (IT contact, IT.js)
        - 🔐 User Authentication
-            Secure login/logout functionality for staff access control.
-            (loginpage.php, logout.php, process_log.php)
+            - Secure login/logout functionality for staff access control.
+            - (loginpage.php, logout.php, process_log.php)
        - 📚 Knowledge Base
-            Centralized repository for staff resources and documentation.
-            (know.php, abt.php)
+            - Centralized repository for staff resources and documentation.
+            - (know.php, abt.php)
        - 📝 Administrative Forms
-            Dynamic forms for exams, staff data, and operations.
-         	(form.php, exam.php, insert.php)
+            - Dynamic forms for exams, staff data, and operations.
+         	- (form.php, exam.php, insert.php)
      
  🛠️ Technical Stack
  
