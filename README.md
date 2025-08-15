@@ -46,5 +46,5 @@
 
 - **Server Requirements:**
       - PHP 7.4+
-      - MySQL/MariaDB
-      - Apache/Nginx
+      - MySQL
+      - Apache
