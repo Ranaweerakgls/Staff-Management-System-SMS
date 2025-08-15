@@ -10,7 +10,7 @@
   
   -  Feature	Description	Key Files
     
-       - 📅 Appointment Management
+       -  📅 Appointment Management
             - Schedule and manage staff appointments with forms and forums.
             - (appform.php, cappform.php)
        - 🎫 Ticket System
